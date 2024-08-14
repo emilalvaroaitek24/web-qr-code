@@ -34,7 +34,7 @@ const Footer = () => {
 
               <IconButton
                 as="a"
-                href="https://www.buymeacoffee.com/dantelentsoe "
+                href="https://www.facebook.com/EalvaroDee "
                 aria-label="BuyMeACoffe"
                 icon={<BiDonateHeart fontSize="1.25rem" />}
               />
@@ -44,10 +44,10 @@ const Footer = () => {
           <Text fontSize="sm" color="subtle" py={{ base: "2", md: "2" }}>
             &copy; {new Date().getFullYear()} Developed by{" "}
             <Link
-              href="https://dantelentsoe.com"
+              href="https://ai.aitekph.com"
               target="_blank"
               color={"teal.500"}>
-              Dante Lentsoe
+              Emil Alvaro
             </Link>
           </Text>
         </Stack>
